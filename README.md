@@ -12,5 +12,5 @@ El formato de la meetup es algo intermedio entre una reunión social y un worksh
 * Lugar (place): TBD
 
 ## Reuniones anteriores (previous meetups)
-* El 1r almuerzo (2019-06-26 en la parrilla Makarios): fotos
-* El 1r meetup (2019-06-20 en Casa Malta): fotos, [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
+* El 1r almuerzo (2019-06-26 en la parrilla Makarios): [detalles](meetups/20190626.md)
+* El 1r meetup (2019-06-20 en Casa Malta): [detalles](meetups/20190620.md), [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
