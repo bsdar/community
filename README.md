@@ -9,11 +9,12 @@ El formato de la meetup es algo intermedio entre una reunión social y un worksh
 Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/BSDar.
 
 ## Próxima reunión (next meetup)
-* Fecha (date): 2019-08-15
+* Fecha (date): 2019-09-19
 * Hora (time): 19-01hs
-* Lugar (place): TBD
+* Lugar (place): Casa Malta, 1er piso (Guatemala 4570, Palermo, Ciudad Autónoma de Buenos Aires)
 
 ## Reuniones anteriores (previous meetups)
+* El 3er meetup (2019-08-15 en Casa Malta): [detalles](meetups/20190815.md), [meetup info](https://www.meetup.com/sysarmy/events/263950117/)
 * El 2do meetup (2019-07-18 en Casa Malta): [detalles](meetups/20190718.md), [meetup info](https://www.meetup.com/sysarmy/events/263198844/)
 * El 1r almuerzo (2019-06-26 en la parrilla Makarios): [detalles](meetups/20190626.md)
 * El 1r meetup (2019-06-20 en Casa Malta): [detalles](meetups/20190620.md), [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
