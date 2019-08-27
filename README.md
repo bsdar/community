@@ -19,7 +19,7 @@ Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/B
 * El 1r almuerzo (2019-06-26 en la parrilla Makarios): [detalles](meetups/20190626.md)
 * El 1r meetup (2019-06-20 en Casa Malta): [detalles](meetups/20190620.md), [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
 
-## Reuniones del comité organizativo (the organizational committee meetings)
+## Reuniones del comité organizador (the organizational committee meetings)
 * La 1ra reunión (2019-08-27 en Av. L. N. Alem 826): [detalles](org/20190827.md)
 
 <br /><br />
