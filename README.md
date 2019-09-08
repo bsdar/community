@@ -20,7 +20,8 @@ Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/B
 * El 1r meetup (2019-06-20 en Casa Malta): [detalles](meetups/20190620.md), [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
 
 ## Reuniones del comité organizador (the organizational committee meetings)
-* La 1ra reunión (2019-08-27 en Av. L. N. Alem 826): [detalles](org/20190827.md)
+* 2da reunión (2019-09-02 en Paraguay 1896): [detalles](org/20190902.md)
+* 1ra reunión (2019-08-27 en Av. L. N. Alem 826): [detalles](org/20190827.md)
 
 <br /><br />
 <p align="center">
