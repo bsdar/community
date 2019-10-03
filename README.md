@@ -18,6 +18,11 @@ Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/B
 * Hora (time): 19-01hs
 * Lugar (place): TBA
 
+## BSDar en eventos externos (BSDar at external events)
+* 2019-09-27: [Workshop](man/workshops/eko15) at Ekoparty #15
+* 2019-06-12: [Stand](events/20190612_buzzconf.md) at BuzzConf
+
+
 ## Reuniones anteriores (previous meetups)
 * El 3er meetup (2019-08-15 en Casa Malta): [detalles](meetups/20190815.md), [meetup info](https://www.meetup.com/sysarmy/events/263950117/)
 * El 2do meetup (2019-07-18 en Casa Malta): [detalles](meetups/20190718.md), [meetup info](https://www.meetup.com/sysarmy/events/263198844/)
