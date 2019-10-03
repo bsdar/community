@@ -8,7 +8,7 @@ El formato de la meetup es algo intermedio entre una reunión social y un worksh
 
 Y a partir de octubre 2019 empezamos con los **hackatons** mensuales: el primer domingo de cada mes de 12 a 22hs (cada uno decide su horario de participación dentro de este rango). A diferencia de los meetups, los hackatons están especialmente para lograr buenos avances en algún tema específico y para ver temas avanzados, con cabeza fresca y sin alcohol. Los meetups son más para juntarnos todos y pasar un buen rato con birras de por medio. En ambas reuniones hacemos instalaciones *BSD, pero los hackatons están especialmente para eso.
 
-Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/BSDar (presentarse!).
+Nuestro principal medio de comunicación es el grupo en Telegram: https://t.me/BSDar (presentarse!).
 
 La estructura y los principios de la Comunidad *BSD Argentina, también como los detalles de su GO (Grupo Organizador) pueden ser encontrados [aquí](org/20190902.md).
 
