@@ -8,10 +8,15 @@ El formato de la meetup es algo intermedio entre una reunión social y un worksh
 
 Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/BSDar.
 
-## Próxima reunión (next meetup)
-* Fecha (date): 2019-09-19
+## Próximo hackaton (next meetup)
+* Fecha (date): 2019-10-06
+* Hora (time): 12-22hs
+* Lugar (place): Paraguay 1896, 7 piso (Av. Cordoba y Av. Callao, est. subte "Callao" línea D; Ciudad Autónoma de Buenos Aires)
+
+## Próximo meetup (next meetup)
+* Fecha (date): 2019-10-17
 * Hora (time): 19-01hs
-* Lugar (place): Casa Malta, 1er piso (Guatemala 4570, Palermo, Ciudad Autónoma de Buenos Aires)
+* Lugar (place): TBA
 
 ## Reuniones anteriores (previous meetups)
 * El 3er meetup (2019-08-15 en Casa Malta): [detalles](meetups/20190815.md), [meetup info](https://www.meetup.com/sysarmy/events/263950117/)
