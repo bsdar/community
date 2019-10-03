@@ -11,7 +11,7 @@ Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/B
 ## Próximo hackaton (next hackaton)
 * Fecha (date): 2019-10-06
 * Hora (time): 12-22hs
-* Lugar (place): Paraguay 1896, 7 piso (Av. Cordoba y Av. Callao, est. subte "Callao" línea D; Ciudad Autónoma de Buenos Aires)
+* Lugar (place): Paraguay 1896, 7 piso (Av. Cordoba y Av. Callao, est. subte "Callao" línea D; Buenos Aires)
 
 ## Próximo meetup (next meetup)
 * Fecha (date): 2019-10-17
@@ -19,13 +19,7 @@ Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/B
 * Lugar (place): TBA
 
 ## BSDar en eventos externos (BSDar at external events)
-* 2019-09-27: [Workshop](/bsdar/man/workshops/eko15) at Ekoparty #15
-* 2019-09-27: [Workshop](bsdar/man/workshops/eko15) at Ekoparty #15
-* 2019-09-27: [Workshop](/man/workshops/eko15) at Ekoparty #15
-* 2019-09-27: [Workshop](../man/workshops/eko15) at Ekoparty #15
-* 2019-09-27: [Workshop](github/bsdar/man/workshops/eko15) at Ekoparty #15
-* 2019-09-27: [Workshop](/github/bsdar/man/workshops/eko15) at Ekoparty #15
-* 2019-09-27: [Workshop](github.com/bsdar/man/workshops/eko15) at Ekoparty #15
+* 2019-09-27: [Workshop](https://github.com/bsdar/man/workshops/eko15) at Ekoparty #15
 * 2019-06-12: [Stand](events/20190612_buzzconf.md) at BuzzConf
 
 
@@ -33,8 +27,8 @@ Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/B
 * Meetup #4 (2019-09-19 en Paraguay 1896): [detalles](meetups/20190919.md), [meetup info](https://www.meetup.com/sysarmy/events/264967151/)
 * Meetup #3 (2019-08-15 en Casa Malta): [detalles](meetups/20190815.md), [meetup info](https://www.meetup.com/sysarmy/events/263950117/)
 * Meetup #2 (2019-07-18 en Casa Malta): [detalles](meetups/20190718.md), [meetup info](https://www.meetup.com/sysarmy/events/263198844/)
-* El 1er almuerzo (2019-06-26 en la parrilla Makarios): [detalles](meetups/20190626.md)
-* El 1er meetup (2019-06-20 en Casa Malta): [detalles](meetups/20190620.md), [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
+* Almuerzo #1 (2019-06-26 en la parrilla Makarios): [detalles](meetups/20190626.md)
+* Meetup #1 (2019-06-20 en Casa Malta): [detalles](meetups/20190620.md), [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
 
 ## Reuniones del comité organizador (the organizational committee meetings)
 * 2da reunión (2019-09-02 en Paraguay 1896): [detalles](org/20190902.md)
