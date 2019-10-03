@@ -1,12 +1,17 @@
 # BSDar - Comunidad *BSD Argentina
 
-BSDar es una comunidad dedicada a la familia de sistemas operativos BSD (FreeBSD, OpenBSD, etc.). Nos reunimos el tercer jueves de cada mes para compartir unas birras, comidas, presentaciones, discusiones y para socializar. El primer encuentro fue el 2019-06-20.
+BSDar es una comunidad dedicada a la familia de sistemas operativos BSD (OpenBSD, FreeBSD, NetBSD, DragonFly BSD, etc.). Nos reunimos el tercer jueves de cada mes para compartir unas birras, comidas, presentaciones, discusiones y para socializar. El primer encuentro fue el 2019-06-20.
 
 La comunidad está dirigida a toda persona interesada en cualquiera de las variantes de BSD, ya sea para kernel hacking, desarrollo, administración o simplemente para conocer el mundo BSD.
 
 El formato de la meetup es algo intermedio entre una reunión social y un workshop/installfest. Los participantes pueden traer sus equipos para experimentar con *BSD – siempre hay pendrives con liveUSB de FreeBSD y OpenBSD preinstalados.
 
-Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/BSDar.
+Y a partir de octubre 2019 empezamos con los **hackatons** mensuales: el primer domingo de cada mes de 12 a 22hs (cada uno decide su horario de participación dentro de este rango). A diferencia de los meetups, los hackatons están especialmente para lograr buenos avances en algún tema específico y para ver temas avanzados, con cabeza fresca y sin alcohol. Los meetups son más para juntarnos todos y pasar un buen rato con birras de por medio. En ambas reuniones hacemos instalaciones *BSD, pero los hackatons están especialmente para eso.
+
+Nuestro principal medio de comunicación es el canal en Telegram: https://t.me/BSDar (presentarse!).
+
+La estructura y los principios de la Comunidad *BSD Argentina, también como los detalles de su GO (Grupo Organizador) pueden ser encontrados [aquí](org/20190902.md).
+
 
 ## Próximo hackaton (next hackaton)
 * Fecha (date): 2019-10-06
