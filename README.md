@@ -24,7 +24,7 @@ La estructura y los principios de la Comunidad *BSD Argentina, también como los
 * Lugar (place): TBA
 
 ## BSDar en eventos externos (BSDar at external events)
-* 2019-09-27: [Workshop](https://github.com/bsdar/man/blob/master/workshops/eko15/README.md) at Ekoparty #15
+* 2019-09-27: [Workshop](https://github.com/bsdar/man/blob/master/workshops/eko15/README.md) at Ekoparty Security Conference (eko15)
 * 2019-06-12: [Stand](events/20190612_buzzconf.md) at BuzzConf
 
 
