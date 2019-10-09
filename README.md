@@ -40,7 +40,7 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 * Almuerzo #1 (2019-06-26 en la parrilla Makarios): [detalles](meetups/20190626.md)
 * Meetup #1 (2019-06-20 en Casa Malta): [detalles](meetups/20190620.md), [meetup info](https://www.meetup.com/sysarmy/events/262444553/)
 
-## Reuniones del Grupo Organizador (GO, the Organizational Group meetings)
+## Reuniones del Grupo Organizador (GO, the Organizing Group meetings)
 * 2da reunión (2019-09-02 en Paraguay 1896): [detalles](org/20190902.md)
 * 1ra reunión (2019-08-27 en Av. L. N. Alem 826): [detalles](org/20190827.md)
 
