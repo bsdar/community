@@ -12,11 +12,15 @@ Nuestro principal medio de comunicación es el grupo en Telegram: https://t.me/B
 
 La estructura y los principios de la Comunidad *BSD Argentina, también como los detalles de su GO (Grupo Organizador) pueden ser encontrados [aquí](org/20190902.md).
 
+El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_organizacion.
+
+**English**: you can contact the Organizing Group of BSDar at https://t.me/BSDar_organizacion.
+
 
 ## Próximo hackaton (next hackaton)
-* Fecha (date): 2019-10-06
+* Fecha (date): 2019-11-03
 * Hora (time): 12-22hs
-* Lugar (place): Paraguay 1896, 7 piso (Av. Cordoba y Av. Callao, est. subte "Callao" línea D; Buenos Aires)
+* Lugar (place): TBA
 
 ## Próximo meetup (next meetup)
 * Fecha (date): 2019-10-17
@@ -28,7 +32,8 @@ La estructura y los principios de la Comunidad *BSD Argentina, también como los
 * 2019-06-12: [Stand](events/20190612_buzzconf.md) at BuzzConf
 
 
-## Reuniones anteriores (previous meetups)
+## Reuniones anteriores (previous meetings)
+* Hackaton #1 (2019-10-06 en Paraguay 1896): [detalles](hackatons/20191006.md)
 * Meetup #4 (2019-09-19 en Paraguay 1896): [detalles](meetups/20190919.md), [meetup info](https://www.meetup.com/sysarmy/events/264967151/)
 * Meetup #3 (2019-08-15 en Casa Malta): [detalles](meetups/20190815.md), [meetup info](https://www.meetup.com/sysarmy/events/263950117/)
 * Meetup #2 (2019-07-18 en Casa Malta): [detalles](meetups/20190718.md), [meetup info](https://www.meetup.com/sysarmy/events/263198844/)
