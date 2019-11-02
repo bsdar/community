@@ -20,19 +20,21 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 ## Próximo hackaton (next hackaton)
 * Fecha (date): 2019-11-03
 * Hora (time): 12-22hs
-* Lugar (place): TBA
+* Lugar (place): Paraguay 1896, 7 piso (Av. Cordoba y Av. Callao, est. subte "Callao" línea D; Buenos Aires)
 
 ## Próximo meetup (next meetup)
-* Fecha (date): 2019-10-17
+* Fecha (date): 2019-11-21
 * Hora (time): 19-01hs
 * Lugar (place): TBA
 
 ## BSDar en eventos externos (BSDar at external events)
-* 2019-09-27: [Workshop](https://github.com/bsdar/man/blob/master/workshops/eko15/README.md) at Ekoparty Security Conference (eko15)
-* 2019-06-12: [Stand](events/20190612_buzzconf.md) at BuzzConf
+* 2019-10-17 a 19: [Stand & lightning talk + BSDar kids](events/20191017_nerdearla.md) at [Nerdear.la](https://nerdear.la)
+* 2019-09-27: [Workshop](https://github.com/bsdar/man/blob/master/workshops/eko15/README.md) at [Ekoparty Security Conference](https://ekoparty.org) (eko15)
+* 2019-06-12: [Stand](events/20190612_buzzconf.md) at [BuzzConf](https://buzzconf.org)
 
 
 ## Reuniones anteriores (previous meetings)
+* Meetup #5 (2019-10-17 after-nerdearla): [detalles](meetups/20191017.md)
 * Hackaton #1 (2019-10-06 en Paraguay 1896): [detalles](hackatons/20191006.md)
 * Meetup #4 (2019-09-19 en Paraguay 1896): [detalles](meetups/20190919.md), [meetup info](https://www.meetup.com/sysarmy/events/264967151/)
 * Meetup #3 (2019-08-15 en Casa Malta): [detalles](meetups/20190815.md), [meetup info](https://www.meetup.com/sysarmy/events/263950117/)
