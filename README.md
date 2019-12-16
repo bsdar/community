@@ -54,5 +54,5 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 
 <br /><br />
 <p align="center">
-  <img src="bsdar/multimedia/blob/master/artwork/logo.png" />
+  <img src="https://github.com/bsdar/multimedia/blob/master/artwork/logo.png" />
 </p>
