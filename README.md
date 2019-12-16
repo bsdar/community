@@ -37,7 +37,7 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 
 ## Reuniones anteriores (previous meetings)
 * Hackaton #3 (2019-12-01 en Paraguay 1896): [detalles+fotos](hackatons/20191201.md)
-* Meetup #6 (2019-11-21): [detalles+fotos](meetups/20191121.md) aviso en [meetup.com](https://www.meetup.com/es-ES/sysarmy/events/266610759/)
+* Meetup #6 (2019-11-21): [detalles+fotos](meetups/20191121.md), aviso en [meetup.com](https://www.meetup.com/es-ES/sysarmy/events/266610759/)
 * Hackaton #2 (2019-11-03 en Paraguay 1896): [detalles+fotos](hackatons/20191103.md)
 * Meetup #5 (2019-10-17 after-nerdearla): [detalles+fotos](meetups/20191017.md)
 * Hackaton #1 (2019-10-06 en Paraguay 1896): [detalles+fotos](hackatons/20191006.md)
