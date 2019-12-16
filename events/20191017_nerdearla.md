@@ -5,6 +5,7 @@
 * Lugar: Ciudad Cultural Konex (Sarmiento 3131, Buenos Aires)
 * Fecha: 2019-10-17 - 2019-10-19
 * Tipo de participación: stand & lightning talk + BSDar kids
+* Speakers de la lightning talk: ToscoSys & Pablo Carboni
 
 ![foto 1](https://github.com/bsdar/multimedia/blob/master/photos/20191017_1.jpg)
 ![foto 2](https://github.com/bsdar/multimedia/blob/master/photos/20191017_2.jpg)
