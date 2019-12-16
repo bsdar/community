@@ -28,7 +28,7 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 * Lugar (place): Casa Malta, 1er piso (Guatemala 4570, Palermo, Ciudad Autónoma de Buenos Aires)
 
 ## BSDar en eventos externos (BSDar at external events)
-* 2019-12-05 a 06: [Stand & lightning talk](events/20191205_pycon.md) at [PyConAr](https://eventos.python.org.ar/events/pyconar2019/)
+* 2019-12-05 a 06: [Stand & lightning talk](events/20191205_pyconar.md) at [PyConAr](https://eventos.python.org.ar/events/pyconar2019/)
 * 2019-11-07: Presentación [OpenBSD: seguridad industrial](https://github.com/bsdar/man/blob/master/presentations/csalatam19/README.md) at [CSA LATAM FORUM 2019](https://csalatam.com)
 * 2019-10-17 a 19: [Stand & lightning talk + BSDar kids](events/20191017_nerdearla.md) at [Nerdear.la](https://nerdear.la)
 * 2019-09-27: Workshop [OpenBSD: una workstation segura](https://github.com/bsdar/man/blob/master/workshops/eko15/README.md) at [Ekoparty Security Conference](https://ekoparty.org) (#eko15)
