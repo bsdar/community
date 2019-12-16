@@ -28,7 +28,7 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 * Lugar (place): Casa Malta, 1er piso (Guatemala 4570, Palermo, Ciudad Autónoma de Buenos Aires)
 
 ## BSDar en eventos externos (BSDar at external events)
-* 2019-12-05 a 06: [Stand & lightning talk](events/20191206_pycon.md) at [PyConAr](https://eventos.python.org.ar/events/pyconar2019/)
+* 2019-12-05 a 06: [Stand & lightning talk](events/20191205_pycon.md) at [PyConAr](https://eventos.python.org.ar/events/pyconar2019/)
 * 2019-11-07: Presentación [OpenBSD: seguridad industrial](https://github.com/bsdar/man/blob/master/presentations/csalatam19/README.md) at [CSA LATAM FORUM 2019](https://csalatam.com)
 * 2019-10-17 a 19: [Stand & lightning talk + BSDar kids](events/20191017_nerdearla.md) at [Nerdear.la](https://nerdear.la)
 * 2019-09-27: Workshop [OpenBSD: una workstation segura](https://github.com/bsdar/man/blob/master/workshops/eko15/README.md) at [Ekoparty Security Conference](https://ekoparty.org) (#eko15)
@@ -36,8 +36,8 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 
 
 ## Reuniones anteriores (previous meetings)
-* Hackaton #3 (2019-12-01 en Paraguay 1896): [detalles+fotos](hackatons/20191103.md)
-* Meetup #6 (2019-11-17 ): [detalles+fotos](meetups/20191017.md)
+* Hackaton #3 (2019-12-01 en Paraguay 1896): [detalles+fotos](hackatons/20191201.md)
+* Meetup #6 (2019-11-21): [detalles+fotos](meetups/20191121.md) aviso en [meetup.com](https://www.meetup.com/es-ES/sysarmy/events/266610759/)
 * Hackaton #2 (2019-11-03 en Paraguay 1896): [detalles+fotos](hackatons/20191103.md)
 * Meetup #5 (2019-10-17 after-nerdearla): [detalles+fotos](meetups/20191017.md)
 * Hackaton #1 (2019-10-06 en Paraguay 1896): [detalles+fotos](hackatons/20191006.md)
@@ -48,9 +48,9 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 * Meetup #1 (2019-06-20 en Casa Malta): [detalles+fotos](meetups/20190620.md), aviso en [meetup.com](https://www.meetup.com/sysarmy/events/262444553/)
 
 ## Reuniones del Grupo Organizador (GO, the Organizing Group meetings)
-* 3ra reunión (2019-12-12 en Paraguay 1896): [detalles+fotos](org/20191212.md)
-* 2da reunión (2019-09-02 en Paraguay 1896): [detalles+fotos](org/20190902.md)
-* 1ra reunión (2019-08-27 en Av. L. N. Alem 826): [detalles+fotos](org/20190827.md)
+* 3ra reunión (2019-12-12 en Paraguay 1896): [detalles](org/20191212.md)
+* 2da reunión (2019-09-02 en Paraguay 1896): [detalles](org/20190902.md)
+* 1ra reunión (2019-08-27 en Av. L. N. Alem 826): [detalles](org/20190827.md)
 
 <br /><br />
 <p align="center">
