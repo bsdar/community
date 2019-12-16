@@ -1,7 +1,7 @@
-# BSDar participando por primera vez en un evento!
+# BSDar @ Nerdear.la
 
 ## Detalles
-* Evento: BuzzConf (conferencia de Rust)
+* Evento: Nerdear.la (conferencia de nerds)
 * Lugar: Ciudad Cultural Konex (Sarmiento 3131, Buenos Aires)
 * Fecha: 2019-10-17 - 2019-10-19
 * Tipo de participación: stand & lightning talk + BSDar kids
@@ -27,7 +27,7 @@
 ![foto 16](https://github.com/bsdar/multimedia/blob/master/photos/20191017_16.gif)
 ![foto 17](https://github.com/bsdar/multimedia/blob/master/photos/20191017_17.jpg)
 ![foto 18](https://github.com/bsdar/multimedia/blob/master/photos/20191017_18.jpg)
-![foto 19](https://github.com/bsdar/multimedia/blob/master/photos/20191017_18.jpg)
+![foto 19](https://github.com/bsdar/multimedia/blob/master/photos/20191017_19.jpg)
 ![foto 20](https://github.com/bsdar/multimedia/blob/master/photos/20191017_20.gif)
 ![foto 21](https://github.com/bsdar/multimedia/blob/master/photos/20191017_21.jpg)
 ![foto 22](https://github.com/bsdar/multimedia/blob/master/photos/20191017_22.jpg)
