@@ -24,7 +24,9 @@
 ![foto 13](https://github.com/bsdar/multimedia/blob/master/photos/20191017_13.jpg)
 ![foto 14](https://github.com/bsdar/multimedia/blob/master/photos/20191017_14.jpg)
 ![foto 15](https://github.com/bsdar/multimedia/blob/master/photos/20191017_15.gif)
+
 Si los gifs se reproducen lentamente, espere a que se carguen por completo
+
 ![foto 16](https://github.com/bsdar/multimedia/blob/master/photos/20191017_16.gif)
 ![foto 17](https://github.com/bsdar/multimedia/blob/master/photos/20191017_17.jpg)
 ![foto 18](https://github.com/bsdar/multimedia/blob/master/photos/20191017_18.jpg)
