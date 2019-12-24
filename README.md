@@ -23,9 +23,9 @@ El GO (Grupo Organizador) de BSDar puede ser contactado en https://t.me/BSDar_or
 * Lugar (place): TBA
 
 ## Próximo meetup (next meetup)
-* Fecha (date): 2019-12-19
-* Hora (time): 19-01hs
-* Lugar (place): Casa Malta, 1er piso (Guatemala 4570, Palermo, Ciudad Autónoma de Buenos Aires)
+* Fecha (date): TBA
+* Hora (time): TBA
+* Lugar (place): TBA
 
 ## BSDar en eventos externos (BSDar at external events)
 * 2019-12-05 a 06: [Stand & lightning talk](events/20191205_pyconar.md) at [PyConAr](https://eventos.python.org.ar/events/pyconar2019/)
